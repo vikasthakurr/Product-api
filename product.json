@@ -1,0 +1,234 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Facewash",
+    "description": "Gentle cleansing facewash suitable for all skin types.",
+    "price": 250,
+    "category": "Personal Care",
+    "image_url": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P002",
+    "name": "Organic Hair Oil",
+    "description": "Natural organic hair oil for nourishment and strength.",
+    "price": 350,
+    "category": "Hair Care",
+    "image_url": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P003",
+    "name": "Nike Shoes",
+    "description": "Lightweight Nike shoes designed for running comfort.",
+    "price": 4500,
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P004",
+    "name": "Headphone",
+    "description": "Wireless headphones with immersive sound quality.",
+    "price": 2200,
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P005",
+    "name": "Watch",
+    "description": "Classic analog watch with metallic strap.",
+    "price": 1500,
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1099&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P006",
+    "name": "Sneaker",
+    "description": "Trendy sneakers for casual wear.",
+    "price": 3200,
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P007",
+    "name": "Running Shoes",
+    "description": "Running shoes with advanced grip and cushioning.",
+    "price": 2600,
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P008",
+    "name": "Makeup Kit",
+    "description": "All-in-one makeup kit for professionals and beginners.",
+    "price": 1800,
+    "category": "Beauty",
+    "image_url": "https://images.unsplash.com/photo-1567721913486-6585f069b332?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P009",
+    "name": "Tomato Soup",
+    "description": "Rich and creamy tomato soup made with fresh ingredients.",
+    "price": 120,
+    "category": "Food",
+    "image_url": "https://images.unsplash.com/photo-1693168045046-9a4b4f30f1c7?q=80&w=742&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P010",
+    "name": "Smart Watch",
+    "description": "Smart watch with fitness tracker and heart monitor.",
+    "price": 3200,
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P011",
+    "name": "Perfume",
+    "description": "Luxury perfume with a long-lasting fragrance.",
+    "price": 1700,
+    "category": "Beauty",
+    "image_url": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P012",
+    "name": "Canvas Shoes",
+    "description": "Durable canvas shoes for everyday style.",
+    "price": 900,
+    "category": "Footwear",
+    "image_url": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?q=80&w=698&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P013",
+    "name": "Shaker",
+    "description": "Protein shaker bottle, ideal for gym enthusiasts.",
+    "price": 250,
+    "category": "Fitness",
+    "image_url": "https://images.unsplash.com/photo-1610824352934-c10d87b700cc?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P014",
+    "name": "Sunglasses Rayban",
+    "description": "Stylish Rayban sunglasses with UV protection.",
+    "price": 2800,
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P015",
+    "name": "Sunscreen",
+    "description": "Broad-spectrum sunscreen for daily skin protection.",
+    "price": 400,
+    "category": "Personal Care",
+    "image_url": "https://images.unsplash.com/photo-1598662957563-ee4965d4d72c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P016",
+    "name": "Mug",
+    "description": "Premium ceramic mug for hot and cold beverages.",
+    "price": 180,
+    "category": "Home & Kitchen",
+    "image_url": "https://plus.unsplash.com/premium_photo-1719289799351-a05299eaee54?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P017",
+    "name": "Watch",
+    "description": "Minimalist watch with premium leather strap.",
+    "price": 2100,
+    "category": "Accessories",
+    "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P018",
+    "name": "Apple Laptop",
+    "description": "Apple laptop with high-speed performance and retina display.",
+    "price": 82000,
+    "category": "Electronics",
+    "image_url": "https://plus.unsplash.com/premium_photo-1681702156223-ea59bfbf1065?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P019",
+    "name": "Apple Mobile",
+    "description": "Latest Apple smartphone with advanced features.",
+    "price": 75000,
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1567581935884-3349723552ca?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P020",
+    "name": "Carrybag",
+    "description": "Eco-friendly carrybag for shopping and daily use.",
+    "price": 100,
+    "category": "Bags",
+    "image_url": "https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6?q=80&w=763&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P021",
+    "name": "Duffle Bag",
+    "description": "Spacious duffle bag ideal for travel and gym.",
+    "price": 1200,
+    "category": "Bags",
+    "image_url": "https://plus.unsplash.com/premium_photo-1678739395192-bfdd13322d34?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P022",
+    "name": "Ladies Purse",
+    "description": "Stylish ladies purse with multiple compartments.",
+    "price": 850,
+    "category": "Bags",
+    "image_url": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P023",
+    "name": "Charger",
+    "description": "Fast charging adapter compatible with multiple devices.",
+    "price": 900,
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P024",
+    "name": "Charging Cable",
+    "description": "Durable and fast charging cable for all smartphones.",
+    "price": 350,
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1587037542794-6ca5f4772330?q=80&w=1037&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P025",
+    "name": "Adapter",
+    "description": "Multi-use adapter for various devices and plugs.",
+    "price": 450,
+    "category": "Electronics",
+    "image_url": "https://images.unsplash.com/photo-1623738244303-a645cef7aafa?q=80&w=1282&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P026",
+    "name": "Leather Ball",
+    "description": "High-quality leather ball for sports activities.",
+    "price": 800,
+    "category": "Sports",
+    "image_url": "https://images.unsplash.com/photo-1602151831496-60a6c9520b52?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P027",
+    "name": "Bat",
+    "description": "Wooden cricket bat for professionals and amateurs.",
+    "price": 1200,
+    "category": "Sports",
+    "image_url": "https://plus.unsplash.com/premium_photo-1679690884082-eaba9eccdcb5?q=80&w=784&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P028",
+    "name": "Cricket Kit",
+    "description": "Full cricket kit with essential gears included.",
+    "price": 3500,
+    "category": "Sports",
+    "image_url": "https://plus.unsplash.com/premium_photo-1722086350831-3cc30b7d68a7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "product_id": "P029",
+    "name": "White T Shirt",
+    "description": "Cotton white T-shirt ideal for summer wear.",
+    "price": 230,
+    "category": "Apparel",
+    "image_url": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
